@@ -22,5 +22,5 @@
   "devDependencies": {
     "nodemon": "^1.18.11"
   },
-  "description": ""
+  "description": "A simple authentication app using Node, Express, Passport, and EJS."
 }
